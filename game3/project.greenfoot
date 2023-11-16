@@ -1,11 +1,11 @@
 #Greenfoot project file
 class.MyWorld.image=1549716.jpg
 class.\u304F\u307E\u304A.image=bear.png
-class.\u731F\u53CB\u4F1A.image=24457710.jpg
-editor.fx.0.height=739
-editor.fx.0.width=816
-editor.fx.0.x=552
-editor.fx.0.y=100
+class.\u731F\u53CB\u4F1A.image=job_ryoushi.png
+editor.fx.0.height=0
+editor.fx.0.width=0
+editor.fx.0.x=0
+editor.fx.0.y=0
 height=985
 package.numDependencies=0
 package.numTargets=3
@@ -48,4 +48,4 @@ version=3.0.0
 width=1445
 world.lastInstantiated=MyWorld
 xPosition=0
-yPosition=149
+yPosition=0
