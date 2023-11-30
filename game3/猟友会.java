@@ -6,11 +6,11 @@ import greenfoot.*;
 /**
  * 
  */
-public class D extends Actor
+public class 猟友会 extends Actor
 {
 
     /**
-     * Act - do whatever the D wants to do. This method is called whenever the 'Act' or 'Run' button gets pressed in the environment.
+     * Act - do whatever the 猟友会 wants to do. This method is called whenever the 'Act' or 'Run' button gets pressed in the environment.
      */
     public void act()
     {
