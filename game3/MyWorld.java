@@ -1,4 +1,3 @@
-// WARNING: This file is auto-generated and any changes to it will be overwritten
 import lang.stride.*;
 import java.util.*;
 import greenfoot.*;
@@ -15,5 +14,10 @@ public class MyWorld extends World
     public MyWorld()
     {
         super(1200, 800, 1);
+        addObject( new meiro(), 618, 410);
+        addObject( new くまお(), 100, 125 );
+       
+        
+        
     }
 }

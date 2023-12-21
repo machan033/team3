@@ -14,5 +14,10 @@ public class meiro extends Actor
      */
     public void act()
     {
+      Actor actor = getOneIntersectingObject( くまお.class );
+      if( actor != null ){
+        
+}       
     }
+    
 }
