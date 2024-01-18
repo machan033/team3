@@ -14,8 +14,12 @@ public class MyWorld extends World
     public MyWorld()
     {
         super(1200, 800, 1);
-        addObject( new meiro(), 618, 410);
-        addObject( new くまお(), 100, 125 );
+        //addObject( new meiro(), 618, 410);
+        addObject( new くまお(), 100, 165 );
+        addObject( new 猟友会(), 500, 150 );
+        addObject( new 猟友会(), 125, 500 );
+        addObject( new 猟友会(), 500, 500 );
+        addObject( new 猟友会(), 1000, 500 );
        
         
         
